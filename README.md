@@ -10,7 +10,7 @@
 </head>
 <body>
   <header>
-    <h1>[Your Name]</h1>
+    <h1>Nathan</h1>
     <p>[Your Title/Profession]</p>
   </header>
 
