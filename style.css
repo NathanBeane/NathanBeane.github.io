@@ -2,11 +2,14 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #f5f5f5; /* Light background with a green tint */
 }
 
-header {
+.conservation-header {
   text-align: center;
   padding: 20px;
+  background-color: #2e7d32; /* Forest green for header */
+  color: white; /* White text for header */
 }
 
 h1 {
@@ -39,3 +42,11 @@ ul {
 li {
   margin-bottom: 5px;
 }
+
+.conservation-footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #2e7d32; /* Forest green for footer */
+  color: white; /* White text for footer */
+}
+
